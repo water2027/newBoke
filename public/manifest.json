@@ -1,6 +1,6 @@
 {
-    "name": "SSE MARKET",
-    "short_name": "SSE",
+    "name": "water's blog",
+    "short_name": "blog",
     "scope": "/",
     "start_url": "/",
     "display": "standalone",
